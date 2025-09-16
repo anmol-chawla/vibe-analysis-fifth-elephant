@@ -1,0 +1,10 @@
+{
+  "total_rated_movies":335533.0,
+  "median_runtime":91.0,
+  "overall_weighted_rating":7.2072302867,
+  "runtime_p10":66.0,
+  "runtime_p25":80.0,
+  "runtime_p75":103.0,
+  "runtime_p90":122.0,
+  "share_over_120_min":0.1155465177
+}
